@@ -9,17 +9,17 @@ const PRODUCTS = [
       en: {
         name: "Oat & Honey Soap Bar",
         scent: "Oat, honey and almond",
-        description: "Nourishing, creamy lather for sensitive skin.",
+        description: "A gentle bar with finely milled oats and a soft honeyed finish for everyday hand and body care.",
       },
       es: {
         name: "Jabón de avena y miel",
         scent: "Avena, miel y almendra",
-        description: "Nutre y suaviza la piel sensible con una espuma cremosa.",
+        description: "Una pastilla suave con avena molida y un acabado meloso para el cuidado diario de manos y cuerpo.",
       },
       fr: {
         name: "Savon avoine & miel",
         scent: "Avoine, miel et amande",
-        description: "Mousse crémeuse et nourrissante pour peaux sensibles.",
+        description: "Un savon doux avec avoine finement moulue et une note miellée pour le soin quotidien.",
       },
     },
     image:
@@ -33,17 +33,17 @@ const PRODUCTS = [
       en: {
         name: "Lavender Soap Bar",
         scent: "Provence lavender",
-        description: "Perfect for a calm evening ritual with a relaxing scent.",
+        description: "A creamy lavender bar designed for slow evening showers and a clean, floral finish.",
       },
       es: {
         name: "Jabón de lavanda",
         scent: "Lavanda provenzal",
-        description: "Ideal para el ritual nocturno gracias a su aroma relajante.",
+        description: "Una pastilla cremosa de lavanda pensada para duchas pausadas y un final floral limpio.",
       },
       fr: {
         name: "Savon lavande",
         scent: "Lavande de Provence",
-        description: "Idéal pour un rituel du soir grâce a son parfum apaisant.",
+        description: "Un savon crémeux à la lavande pour les douches du soir et une note florale nette.",
       },
     },
     image:
@@ -57,17 +57,17 @@ const PRODUCTS = [
       en: {
         name: "Rosemary Soap Bar",
         scent: "Rosemary and olive oil",
-        description: "Herbal freshness for a revitalizing everyday cleanse.",
+        description: "Green, herbal and crisp, with olive oil richness for a fresh morning wash.",
       },
       es: {
         name: "Jabón de romero",
         scent: "Romero y aceite de oliva",
-        description: "Frescura herbal para una limpieza revitalizante diaria.",
+        description: "Verde, herbal y fresco, con la riqueza del aceite de oliva para empezar la mañana.",
       },
       fr: {
         name: "Savon romarin",
         scent: "Romarin et huile d'olive",
-        description: "Fraicheur herbale pour une toilette revitalisante.",
+        description: "Vert, herbacé et frais, avec la richesse de l'huile d'olive pour le matin.",
       },
     },
     image:
@@ -81,17 +81,17 @@ const PRODUCTS = [
       en: {
         name: "Rosehip Soap Bar",
         scent: "Soft rose and floral notes",
-        description: "Leaves skin feeling silky and luminous after every use.",
+        description: "A silky floral bar with rosehip notes, made for a softer, more polished bathroom ritual.",
       },
       es: {
         name: "Jabón de rosa mosqueta",
         scent: "Rosa suave y notas florales",
-        description: "Aporta luminosidad y un tacto sedoso tras cada uso.",
+        description: "Una pastilla floral y sedosa con notas de rosa mosqueta para un ritual de baño más cuidado.",
       },
       fr: {
         name: "Savon a la rose musquee",
         scent: "Rose douce et notes florales",
-        description: "Apporte de l'eclat et un toucher soyeux apres usage.",
+        description: "Un savon floral et soyeux aux notes de rose musquée pour un rituel plus raffiné.",
       },
     },
     image:
@@ -105,17 +105,17 @@ const PRODUCTS = [
       en: {
         name: "Lavender Candle",
         scent: "French lavender",
-        description: "Vegetal soy wax with a clean, long-lasting burn.",
+        description: "Hand-poured soy wax and a cotton wick for a quiet lavender glow beside the bed or bath.",
       },
       es: {
         name: "Vela de lavanda",
         scent: "Lavanda francesa",
-        description: "Cera vegetal de soja con combustión limpia y duradera.",
+        description: "Cera de soja vertida a mano y mecha de algodón para una luz tranquila junto a la cama o el baño.",
       },
       fr: {
         name: "Bougie lavande",
         scent: "Lavande francaise",
-        description: "Cire vegetale de soja, combustion propre et durable.",
+        description: "Cire de soja coulée à la main et mèche coton pour une lueur lavande douce.",
       },
     },
     image:
@@ -129,17 +129,17 @@ const PRODUCTS = [
       en: {
         name: "Vanilla Candle",
         scent: "Warm vanilla",
-        description: "A cozy ambience with delicate sweet notes.",
+        description: "Warm vanilla with a soft bakery note, made for reading corners, dinner tables and slow weekends.",
       },
       es: {
         name: "Vela de vainilla",
         scent: "Vainilla calida",
-        description: "Ambiente acogedor con notas dulces y delicadas.",
+        description: "Vainilla cálida con una nota dulce suave, ideal para rincones de lectura y sobremesas lentas.",
       },
       fr: {
         name: "Bougie vanille",
         scent: "Vanille chaleureuse",
-        description: "Une ambiance cocooning aux notes douces et delicates.",
+        description: "Vanille chaude avec une note gourmande douce, parfaite pour lire ou prolonger le dîner.",
       },
     },
     image:
@@ -153,17 +153,17 @@ const PRODUCTS = [
       en: {
         name: "Jasmine Candle",
         scent: "White jasmine",
-        description: "Elegant floral fragrance for quiet moments.",
+        description: "A refined white-flower candle that brings a little ceremony to quiet rooms.",
       },
       es: {
         name: "Vela de jazmin",
         scent: "Jazmin blanco",
-        description: "Fragancia floral elegante para momentos de calma.",
+        description: "Una vela de flor blanca, elegante y serena, para dar presencia a estancias tranquilas.",
       },
       fr: {
         name: "Bougie jasmin",
         scent: "Jasmin blanc",
-        description: "Parfum floral elegant pour des moments de calme.",
+        description: "Une bougie florale blanche, élégante et sereine, pour les pièces calmes.",
       },
     },
     image:
@@ -177,17 +177,17 @@ const PRODUCTS = [
       en: {
         name: "Clean Cotton Candle",
         scent: "Fresh linen",
-        description: "A clean-home feeling with a light, pure scent.",
+        description: "Fresh linen, open windows and newly folded sheets in a light, clean-burning candle.",
       },
       es: {
         name: "Vela de algodon limpio",
         scent: "Lino fresco",
-        description: "Sensacion de hogar limpio con aroma ligero y puro.",
+        description: "Lino fresco, ventanas abiertas y sábanas recién dobladas en una vela ligera.",
       },
       fr: {
         name: "Bougie coton propre",
         scent: "Linge frais",
-        description: "Sensation de maison propre au parfum leger et pur.",
+        description: "Linge frais, fenêtres ouvertes et draps pliés dans une bougie légère.",
       },
     },
     image:
@@ -201,17 +201,17 @@ const PRODUCTS = [
       en: {
         name: "Natural Ritual Gift Set",
         scent: "Lavender + Vanilla",
-        description: "Includes 1 candle and 2 soap bars in a gift box.",
+        description: "A ready-to-gift ritual box with one candle and two soap bars, packed for birthdays or thank-you moments.",
       },
       es: {
         name: "Pack Ritual Natural",
         scent: "Lavanda + Vainilla",
-        description: "Incluye 1 vela y 2 jabones artesanales en caja regalo.",
+        description: "Caja lista para regalar con una vela y dos jabones, pensada para cumpleaños o detalles de agradecimiento.",
       },
       fr: {
         name: "Coffret rituel naturel",
         scent: "Lavande + Vanille",
-        description: "1 bougie et 2 savons en boite cadeau.",
+        description: "Coffret prêt à offrir avec une bougie et deux savons, pour anniversaires ou attentions.",
       },
     },
     image:
@@ -225,17 +225,17 @@ const PRODUCTS = [
       en: {
         name: "Serene Floral Gift Set",
         scent: "Jasmine + Rose",
-        description: "A premium selection to gift care and wellbeing.",
+        description: "A floral pairing for someone who loves soft scent, pretty packaging and unhurried self-care.",
       },
       es: {
         name: "Pack Floral Sereno",
         scent: "Jazmin + Rosa",
-        description: "Seleccion premium para regalar bienestar y cuidado.",
+        description: "Un dúo floral para quien disfruta de aromas suaves, packaging bonito y autocuidado sin prisa.",
       },
       fr: {
         name: "Coffret floral serein",
         scent: "Jasmin + Rose",
-        description: "Selection premium pour offrir soin et bien-etre.",
+        description: "Un duo floral pour celles et ceux qui aiment les parfums doux et les beaux détails.",
       },
     },
     image:
@@ -249,15 +249,15 @@ const CATEGORIES = [
     i18n: {
       en: {
         title: "Natural Soap Bars",
-        description: "Handmade with gentle botanical oils, butters and extracts.",
+        description: "Small-batch bars with botanical oils, creamy lather and scents that stay soft on the skin.",
       },
       es: {
         title: "Jabones naturales",
-        description: "Hechos a mano con aceites botanicos, mantecas y extractos suaves.",
+        description: "Pastillas en lotes pequeños con aceites botánicos, espuma cremosa y aromas suaves.",
       },
       fr: {
         title: "Savons naturels",
-        description: "Faits main avec huiles botaniques, beurres et extraits doux.",
+        description: "Savons en petites séries avec huiles botaniques, mousse crémeuse et parfums doux.",
       },
     },
     image:
@@ -268,15 +268,15 @@ const CATEGORIES = [
     i18n: {
       en: {
         title: "Handcrafted Candles",
-        description: "Vegetal wax, cotton wick and soft fragrances for your home.",
+        description: "Soy wax candles poured in small batches for bedrooms, bathrooms and slower evenings.",
       },
       es: {
         title: "Velas artesanales",
-        description: "Cera vegetal, mecha de algodon y fragancias que envuelven tu hogar.",
+        description: "Velas de soja en lotes pequeños para dormitorios, baños y tardes sin prisa.",
       },
       fr: {
         title: "Bougies artisanales",
-        description: "Cire vegetale, meche en coton et parfums doux pour la maison.",
+        description: "Bougies de soja en petites séries pour chambres, salles de bain et soirées lentes.",
       },
     },
     image:
@@ -287,15 +287,15 @@ const CATEGORIES = [
     i18n: {
       en: {
         title: "Gift Sets",
-        description: "Curated combinations to gift natural beauty and calm.",
+        description: "Wrapped pairings of soaps and candles for thoughtful gifts that feel personal.",
       },
       es: {
         title: "Packs regalo",
-        description: "Combinaciones especiales para sorprender con belleza natural.",
+        description: "Combinaciones envueltas de jabones y velas para regalos con intención.",
       },
       fr: {
         title: "Coffrets cadeau",
-        description: "Combinaisons speciales pour offrir une beaute naturelle.",
+        description: "Associations de savons et bougies emballées pour des cadeaux personnels.",
       },
     },
     image:
@@ -365,10 +365,10 @@ const STRINGS = {
   en: {
     nav: { home: "Home", soaps: "Soaps", candles: "Candles", packs: "Packs", orders: "Orders", contact: "Contact" },
     hero: {
-      kicker: "Handmade with love and calm",
-      title: "Natural soap bars and candles to care for your home and your skin",
+      kicker: "Small-batch soaps and soy candles",
+      title: "Quiet, botanical pieces for slower everyday rituals",
       subtitle:
-        "At Lilix we craft artisanal pieces with natural ingredients, gentle fragrances and details that turn routines into rituals.",
+        "Lilix makes hand-finished soap bars, soy candles and gift sets with soft scents, tactile textures and packaging designed to feel considered from the first look.",
       ctaProducts: "View products",
       ctaOrder: "Place an order",
     },
@@ -393,27 +393,27 @@ const STRINGS = {
       address: "Address",
       notes: "Additional notes",
       send: "Send order",
-      thanks: "Thank you, we have received your order. We will contact you to confirm the details.",
+      thanks: "Thank you, we have received your order request. We will confirm availability, delivery details and final payment before preparing it.",
       summary: "Cart summary",
       empty: "No items added.",
     },
     contact: {
-      intro: "Write to us and we will help you choose the ideal scent or gift set.",
+      intro: "Tell us who the order is for, the mood you want to create, or the scents you usually like. We will help you choose a thoughtful combination.",
       send: "Send message",
       sent: "Message sent. Thank you for reaching out.",
       details: "Contact details",
       message: "Your message",
     },
-    footer: "Handcrafted in Spain.",
+    footer: "Small-batch soaps, candles and gifts made with care in Spain.",
     modal: { aroma: "Scent:" },
   },
   es: {
     nav: { home: "Inicio", soaps: "Jabones", candles: "Velas", packs: "Packs", orders: "Pedidos", contact: "Contacto" },
     hero: {
-      kicker: "Hecho a mano con amor y calma",
-      title: "Jabones y velas naturales para cuidar tu hogar y tu piel",
+      kicker: "Jabones y velas de soja en lotes pequeños",
+      title: "Piezas botánicas para rituales diarios más pausados",
       subtitle:
-        "En Lilix creamos piezas artesanales con ingredientes naturales, fragancias suaves y detalles que convierten cada rutina en un momento especial.",
+        "Lilix crea jabones, velas y packs regalo con aromas suaves, texturas cuidadas y un packaging pensado para sentirse especial desde el primer vistazo.",
       ctaProducts: "Ver productos",
       ctaOrder: "Hacer pedido",
     },
@@ -438,27 +438,27 @@ const STRINGS = {
       address: "Direccion",
       notes: "Comentarios adicionales",
       send: "Enviar pedido",
-      thanks: "Gracias, hemos recibido tu pedido. Te contactaremos para confirmar los detalles.",
+      thanks: "Gracias, hemos recibido tu solicitud de pedido. Te contactaremos para confirmar disponibilidad, entrega y pago antes de prepararlo.",
       summary: "Resumen de la cesta",
       empty: "No hay productos anadidos.",
     },
     contact: {
-      intro: "Escribenos y te ayudamos a elegir el aroma o pack ideal para ti o para regalo.",
+      intro: "Cuéntanos para quién es el pedido, qué ambiente buscas o qué aromas te gustan. Te ayudamos a elegir una combinación con sentido.",
       send: "Enviar mensaje",
       sent: "Mensaje enviado. Gracias por escribirnos.",
       details: "Datos de contacto",
       message: "Tu mensaje",
     },
-    footer: "Hecho artesanalmente en Espana.",
+    footer: "Jabones, velas y regalos en lotes pequeños, hechos con cuidado en Espana.",
     modal: { aroma: "Aroma:" },
   },
   fr: {
     nav: { home: "Accueil", soaps: "Savons", candles: "Bougies", packs: "Coffrets", orders: "Commande", contact: "Contact" },
     hero: {
-      kicker: "Fait main avec amour et calme",
-      title: "Savons naturels et bougies pour prendre soin de votre maison et de votre peau",
+      kicker: "Savons et bougies de soja en petites séries",
+      title: "Des pièces botaniques pour ralentir les gestes du quotidien",
       subtitle:
-        "Chez Lilix, nous creons des pieces artisanales avec des ingredients naturels, des parfums doux et des details qui transforment la routine en rituel.",
+        "Lilix crée savons, bougies et coffrets avec des parfums doux, des textures soignées et un emballage pensé pour faire plaisir dès le premier regard.",
       ctaProducts: "Voir les produits",
       ctaOrder: "Passer commande",
     },
@@ -483,18 +483,18 @@ const STRINGS = {
       address: "Adresse",
       notes: "Commentaires",
       send: "Envoyer la commande",
-      thanks: "Merci, nous avons recu votre commande. Nous vous contacterons pour confirmer les details.",
+      thanks: "Merci, nous avons reçu votre demande. Nous confirmerons disponibilité, livraison et paiement avant préparation.",
       summary: "Resume du panier",
       empty: "Aucun article ajoute.",
     },
     contact: {
-      intro: "Ecrivez-nous, on vous aide a choisir le parfum ou coffret ideal.",
+      intro: "Dites-nous pour qui est la commande, l'ambiance recherchée ou les parfums que vous aimez. Nous vous aiderons à choisir.",
       send: "Envoyer",
       sent: "Message envoye. Merci de nous avoir ecrit.",
       details: "Coordonnees",
       message: "Votre message",
     },
-    footer: "Fait main en Espagne.",
+    footer: "Savons, bougies et cadeaux en petites séries, préparés avec soin en Espagne.",
     modal: { aroma: "Parfum :" },
   },
 };
