@@ -1,0 +1,16 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bg" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(230 215) rotate(45) scale(360)">
+      <stop stop-color="#E5F1EA"/>
+      <stop offset="1" stop-color="#CADFD0"/>
+    </radialGradient>
+  </defs>
+  <circle cx="256" cy="256" r="250" fill="#F3F1F1"/>
+  <circle cx="256" cy="256" r="220" fill="url(#bg)" stroke="#9CB79E" stroke-width="4"/>
+  <path d="M80 195C110 140 168 96 250 84" stroke="#96B398" stroke-width="8" stroke-linecap="round"/>
+  <path d="M258 100C310 96 370 104 422 132" stroke="#96B398" stroke-width="8" stroke-linecap="round"/>
+  <path d="M128 352C170 400 226 426 286 430" stroke="#96B398" stroke-width="8" stroke-linecap="round"/>
+  <path d="M298 428C350 428 392 412 426 382" stroke="#96B398" stroke-width="8" stroke-linecap="round"/>
+  <text x="256" y="300" text-anchor="middle" font-family="'Brush Script MT', cursive" font-size="108" fill="#4E7A58">Lilix</text>
+  <path d="M346 118L346 194M308 156H384" stroke="#96B398" stroke-width="10" stroke-linecap="round"/>
+</svg>
